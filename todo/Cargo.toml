@@ -1,0 +1,15 @@
+[package]
+name = "todo"
+version = "0.1.0"
+edition = "2021"
+
+[profile.dev]
+overflow-checks = true
+
+[profile.release]
+overflow-checks = true
+
+[dependencies]
+console = "0.15.10"
+tui = "0.19"
+crossterm = "0.28"

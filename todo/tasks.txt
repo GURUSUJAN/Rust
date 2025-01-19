@@ -1,0 +1,4 @@
+1: "Go [Pending]
+2: to [Done]
+3: shopping" [Pending]
+4: "shit" [Done]
